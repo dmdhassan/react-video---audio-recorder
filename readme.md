@@ -20,5 +20,5 @@ To use the video or audio recorder, select the appropriate option and give the n
 ![Audeo](./public/Screenshot%202023-04-08%20at%2009.56.31.png)
 
 ## License
-
-This project is open source and available under the [MIT License](./LICENSE).
+This project is available for anyone to use for free.
+Feel free to contact me with any questions or suggestions!
