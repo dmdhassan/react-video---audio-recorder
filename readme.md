@@ -10,7 +10,7 @@ This project is a React-based video and audio recorder that allows users to reco
 
 ## Installation
 
-To get started, simply clone the project from Git `https://github.com/dmdhassan/react-video-and-audio-recorder.git` and install the necessary dependencies by running `npm i` in your terminal. Then start the development server by running `npm run dev`, and navigate to http://127.0.0.1:5173/ in your web browser.
+To get started, simply clone the project from git `https://github.com/dmdhassan/react-video-and-audio-recorder.git` and install the necessary dependencies by running `npm i` in your terminal. Then start the development server by running `npm run dev`, and navigate to `http://127.0.0.1:5173/` in your web browser.
 
 ## Usage
 
